@@ -1,0 +1,4 @@
+com/restMongodb/serviceNOSQL/Application.class
+com/restMongodb/serviceNOSQL/Persona.class
+com/restMongodb/serviceNOSQL/PersonaRepository.class
+com/restMongodb/serviceNOSQL/PersonaController.class
