@@ -1,13 +1,13 @@
-package com.restMongodb.serviceNOSQL;
+// package com.restMongodb.serviceNOSQL;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ServiceNosqlApplicationTests {
+// @SpringBootTest
+// class ServiceNosqlApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }

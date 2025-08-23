@@ -1,4 +1,6 @@
+com/restMongodb/serviceNOSQL/model/Persona.class
+com/restMongodb/serviceNOSQL/repository/RegsiterLoginRepository.class
+com/restMongodb/serviceNOSQL/controller/PersonaController.class
 com/restMongodb/serviceNOSQL/Application.class
-com/restMongodb/serviceNOSQL/Persona.class
-com/restMongodb/serviceNOSQL/PersonaRepository.class
-com/restMongodb/serviceNOSQL/PersonaController.class
+com/restMongodb/serviceNOSQL/repository/PersonaRepository.class
+com/restMongodb/serviceNOSQL/controller/RegisterController.class
